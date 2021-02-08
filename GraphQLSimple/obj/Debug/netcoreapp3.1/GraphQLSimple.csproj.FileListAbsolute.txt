@@ -30,3 +30,16 @@ D:\Users\prasad_no\source\repos\GraphQLSimple\GraphQLSimple\bin\Debug\netcoreapp
 D:\Users\prasad_no\source\repos\GraphQLSimple\GraphQLSimple\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
 D:\Users\prasad_no\source\repos\GraphQLSimple\GraphQLSimple\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\Users\prasad_no\source\repos\GraphQLSimple\GraphQLSimple\obj\Debug\netcoreapp3.1\GraphQLSimple.csproj.CopyComplete
+D:\Users\prasad_no\source\repos\GraphQLSimple\GraphQLSimple\obj\Debug\netcoreapp3.1\GraphQLSimple.csproj.CoreCompileInputs.cache
+D:\Users\prasad_no\source\repos\GraphQLSimple\GraphQLSimple\obj\Debug\netcoreapp3.1\GraphQLSimple.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\prasad_no\source\repos\GraphQLSimple\GraphQLSimple\bin\Debug\netcoreapp3.1\GraphQLSimple.deps.json
+D:\Users\prasad_no\source\repos\GraphQLSimple\GraphQLSimple\bin\Debug\netcoreapp3.1\GraphQLSimple.runtimeconfig.json
+D:\Users\prasad_no\source\repos\GraphQLSimple\GraphQLSimple\bin\Debug\netcoreapp3.1\GraphQLSimple.runtimeconfig.dev.json
+D:\Users\prasad_no\source\repos\GraphQLSimple\GraphQLSimple\bin\Debug\netcoreapp3.1\GraphQLSimple.dll
+D:\Users\prasad_no\source\repos\GraphQLSimple\GraphQLSimple\bin\Debug\netcoreapp3.1\GraphQLSimple.pdb
+D:\Users\prasad_no\source\repos\GraphQLSimple\GraphQLSimple\bin\Debug\netcoreapp3.1\HotChocolate.AspNetCore.Abstractions.dll
+D:\Users\prasad_no\source\repos\GraphQLSimple\GraphQLSimple\bin\Debug\netcoreapp3.1\HotChocolate.AspNetCore.Playground.dll
+D:\Users\prasad_no\source\repos\GraphQLSimple\GraphQLSimple\bin\Debug\netcoreapp3.1\HotChocolate.Server.dll
+D:\Users\prasad_no\source\repos\GraphQLSimple\GraphQLSimple\obj\Debug\netcoreapp3.1\GraphQLSimple.dll
+D:\Users\prasad_no\source\repos\GraphQLSimple\GraphQLSimple\obj\Debug\netcoreapp3.1\GraphQLSimple.pdb
+D:\Users\prasad_no\source\repos\GraphQLSimple\GraphQLSimple\obj\Debug\netcoreapp3.1\GraphQLSimple.genruntimeconfig.cache
