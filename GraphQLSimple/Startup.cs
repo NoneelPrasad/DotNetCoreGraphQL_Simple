@@ -47,6 +47,8 @@ namespace GraphQLSimple
                 });
             }
 
+            app.UseStaticFiles();
+
       
 
             app.UseRouting();
